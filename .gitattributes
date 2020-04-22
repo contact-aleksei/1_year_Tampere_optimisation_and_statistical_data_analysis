@@ -1,4 +1,0 @@
-*.m linguist-detectable=true
-*.mlx=*.m linguist-detectable=true
-*.in linguist-detectable=false
-*.pdf linguist-detectable=false
